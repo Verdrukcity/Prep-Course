@@ -1,0 +1,57 @@
+html{
+    background-image: url(https://avinews.com/wp-content/uploads/2020/10/sindrome-pollitos-blancos-5.jpg);
+}
+
+h1{
+    color: olive;
+    width: 30%;
+    margin: 0 auto;
+    text-align: center;
+}
+img{
+    max-width: 400px;
+    float: inherit;
+}
+.divClass{
+    width: 80%;
+    background-color: beige;
+    margin: 0 auto;
+    text-align: center;
+    height: 25%;
+    
+ 
+}
+section{
+    border: 1px black;
+    width: auto;
+}
+.center{
+    width:40%;
+    margin: 0 auto;
+    
+}
+
+#thirdDiv{
+    max-width: 600;
+    max-height: 500;
+    background-color:lightgoldenrodyellow;
+    padding: 50px;
+    border: 10px;
+    border-style: dashed;
+    border-color: black;
+    margin: 0 auto;
+    text-align: center;
+}
+.clearfix{
+    overflow: auto;
+}
+#spanId{
+    font-size: 18px;
+    margin: 50px;   
+}
+
+* {
+    -webkit-box-sizing: border-box;
+       -moz-box-sizing: border-box;
+            box-sizing: border-box;
+  }
